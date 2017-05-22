@@ -58,5 +58,5 @@ This is the code that I've used for Android Studio
         android:layout_height="wrap_content"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintBottom_toBottomOf="parent" />
-
 </android.support.constraint.ConstraintLayout>
+
